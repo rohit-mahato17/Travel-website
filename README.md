@@ -71,7 +71,6 @@ Add some advanced or eye-catching features, even if partially implemented:
 💸 Budget Estimator: Estimate trip costs.
 
 ---
-
 <!-- Hero / Gradient Title -->
 <h1 align="center">
   ✈️ <span style="background: linear-gradient(90deg,#ff6b6b,#f7b733,#45b7d1,#7b42f6); -webkit-background-clip: text; color: transparent;">
